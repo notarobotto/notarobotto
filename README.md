@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cs50
 - 💞️ I’m looking to collaborate on things that require collaboration
 - 📫 How to reach me peetah.101.0111@gmail.com
-- 😄 Pronouns: it & that
+
 - ⚡ Fun fact: I am not an Italian Robot 
 
 <!---
